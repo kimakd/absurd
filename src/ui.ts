@@ -172,7 +172,7 @@ export function renderApp(): Response {
 <body>
   <div class="app" id="app">
     <aside class="sidebar" id="sidebar">
-      <div class="brand">Dordoran Web<button class="brand-close" id="navClose" aria-label="Tutup menu">✕</button><small>Port penuh menu CLI MyXL</small></div>
+      <div class="brand">Dordoran Web<button class="brand-close" id="navClose" aria-label="Tutup menu">✕</button><small>Minyak Engsel Yah 🗿</small></div>
       <div class="nav" id="nav"></div>
     </aside>
     <div class="nav-backdrop" id="navBackdrop"></div>
